@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What courses are available?",
+      "keywords": ["courses", "what courses", "available courses", "program"],
+      "answer": "We offer various courses including:\n- Bachelor of Technology (B.Tech)\n- Bachelor of Science (B.Sc)\n- Master of Technology (M.Tech)\n- Diploma Programs\n- Certificate Courses\n\nPlease visit our courses page for more details."
+    },
+    {
+      "id": 2,
+      "question": "What are the admission requirements?",
+      "keywords": ["admission", "requirements", "eligibility", "qualify"],
+      "answer": "Basic admission requirements:\n- 12th pass (for UG programs)\n- Bachelor's degree (for PG programs)\n- Valid entrance exam score (JEE, GATE, etc.)\n- Minimum 50% marks in qualifying exam\n\nContact admissions office for specific requirements."
+    },
+    {
+      "id": 3,
+      "question": "What is the application fee?",
+      "keywords": ["fees", "application fee", "cost", "fee", "price"],
+      "answer": "Application Fee: Rs. 500/-\n\nThis is a non-refundable fee for processing your application. You can pay online through our portal or at the office."
+    },
+    {
+      "id": 4,
+      "question": "What is the tuition fee?",
+      "keywords": ["tuition", "tuition fee", "semester fee", "annual fee"],
+      "answer": "Tuition fees vary by program:\n- B.Tech: Rs. 1,50,000 per year\n- B.Sc: Rs. 80,000 per year\n- M.Tech: Rs. 2,00,000 per year\n- Diploma: Rs. 50,000 per year\n\nFees can be paid semester-wise or annually."
+    },
+    {
+      "id": 5,
+      "question": "Are there scholarships available?",
+      "keywords": ["scholarship", "financial aid", "grant", "award"],
+      "answer": "Yes! We offer several scholarships:\n- Merit-based scholarships (up to 50% tuition)\n- Need-based scholarships\n- Sports scholarships\n- Minority scholarships\n\nApply through our scholarship portal after admission."
+    },
+    {
+      "id": 6,
+      "question": "When is the admission deadline?",
+      "keywords": ["deadline", "admission deadline", "last date", "when"],
+      "answer": "Admission deadlines:\n- UG Programs: 31st July\n- PG Programs: 30th June\n- Diploma: 15th August\n\nEarly bird registrations get 10% fee waiver!"
+    },
+    {
+      "id": 7,
+      "question": "How do I apply?",
+      "keywords": ["apply", "application", "how to apply", "process"],
+      "answer": "Application process:\n1. Visit our website and click 'Apply Now'\n2. Fill the online form with your details\n3. Upload required documents (10th, 12th, entrance exam score)\n4. Pay application fee\n5. Submit and keep confirmation email\n6. Wait for admission decision\n\nProcess takes 2-3 weeks."
+    },
+    {
+      "id": 8,
+      "question": "What documents do I need?",
+      "keywords": ["documents", "required", "paperwork", "submit"],
+      "answer": "Required documents:\n- Class 10th certificate\n- Class 12th certificate\n- Entrance exam scorecard\n- Aadhar card copy\n- Photo (4x6)\n- Address proof\n- Category certificate (if applicable)\n\nAll documents should be scanned and uploaded."
+    },
+    {
+      "id": 9,
+      "question": "Can I defer my admission?",
+      "keywords": ["defer", "deferment", "postpone", "delay"],
+      "answer": "Yes, you can defer admission for 1 year maximum. \n\nTo defer:\n1. Apply in writing to admissions office\n2. Provide valid reason\n3. Pay deferment fee (Rs. 5,000)\n4. Get written approval\n\nDeferment is subject to approval and seat availability."
+    },
+    {
+      "id": 10,
+      "question": "What is the hostel fee?",
+      "keywords": ["hostel", "accommodation", "residence", "living"],
+      "answer": "Hostel fees per year:\n- Single room: Rs. 1,50,000\n- Double room: Rs. 1,00,000\n- Triple room: Rs. 75,000\n\nFee includes: Accommodation, food, utilities, and basic amenities. Apply for hostel during admission process."
+    }
+  ]
+}

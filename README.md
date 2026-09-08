@@ -179,9 +179,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
+**mm0477029-ctrl**
 - GitHub: [@mm0477029-ctrl](https://github.com/mm0477029-ctrl)
-- Email: your.email@example.com
+- Email: mm0477029@gmail.com
 
 ## 🤝 Contributing
 

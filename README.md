@@ -179,7 +179,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**mm0477029-ctrl**
+**Abhishek**
 - GitHub: [@mm0477029-ctrl](https://github.com/mm0477029-ctrl)
 - Email: mm0477029@gmail.com
 
